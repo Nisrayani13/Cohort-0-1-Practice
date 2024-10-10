@@ -1,0 +1,2 @@
+export const BACKEND_URL= "https://backend.nisrayani-13.workers.dev"
+export const jwt="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjdhNzVmNzJhLWQxMTYtNDRkMy1iOGI5LTk5YjVmMWY4ZmMwNiJ9.BTVC-RSUgrEKAE_XpOjP9duX4HSupug1E2N0M8fpvG8"
