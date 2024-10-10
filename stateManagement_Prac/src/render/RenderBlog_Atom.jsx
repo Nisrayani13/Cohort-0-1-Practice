@@ -1,8 +1,8 @@
 import React from 'react'
 import { RecoilRoot, useRecoilState, useRecoilValueLoadable } from 'recoil'
-import { blogAtom } from './blogAtom'
-import { BACKEND_URL } from './config'
-import Blogcard from './Blogcard'
+import { blogAtom } from '../atoms/blogAtom'
+import { BACKEND_URL } from '../config'
+import Blogcard from '../Blogcard'
 import axios from "axios";
 import { useEffect,useState } from 'react'
 

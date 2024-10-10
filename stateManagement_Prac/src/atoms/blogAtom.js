@@ -1,6 +1,6 @@
 import { atom, selector } from "recoil";
 import axios from "axios"
-import { BACKEND_URL, jwt } from "./config";
+import { BACKEND_URL, jwt } from "../config";
 
 // export interface Blog {
 //     title: string;
